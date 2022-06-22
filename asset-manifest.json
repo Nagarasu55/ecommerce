@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ecommerce/static/css/main.92ff524f.css",
+    "main.js": "/ecommerce/static/js/main.277e34c2.js",
+    "static/js/787.b74b1e74.chunk.js": "/ecommerce/static/js/787.b74b1e74.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/ecommerce/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/ecommerce/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/ecommerce/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/offer1.jpg": "/ecommerce/static/media/offer1.2f9880b664b1064e4f19.jpg",
+    "static/media/offer4.jpg": "/ecommerce/static/media/offer4.015b135a29b73bcf48c7.jpg",
+    "static/media/offer3.jpg": "/ecommerce/static/media/offer3.3d2ba1b2b4a5f405addf.jpg",
+    "static/media/offer2.jpg": "/ecommerce/static/media/offer2.976e1fa56ddc168ba502.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/ecommerce/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/ecommerce/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/vivologo.png": "/ecommerce/static/media/vivologo.dd64d9fd6c9ec1ee5fda.png",
+    "static/media/onepluslogo.png": "/ecommerce/static/media/onepluslogo.74934d7baac0ad346660.png",
+    "static/media/xiaomilogo.png": "/ecommerce/static/media/xiaomilogo.517b3f5c4d913fb05510.png",
+    "index.html": "/ecommerce/index.html",
+    "main.92ff524f.css.map": "/ecommerce/static/css/main.92ff524f.css.map",
+    "main.277e34c2.js.map": "/ecommerce/static/js/main.277e34c2.js.map",
+    "787.b74b1e74.chunk.js.map": "/ecommerce/static/js/787.b74b1e74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92ff524f.css",
+    "static/js/main.277e34c2.js"
+  ]
+}
